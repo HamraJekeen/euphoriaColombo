@@ -13,7 +13,7 @@ use Livewire\WithPagination;
 
 
 
-#[Title('Product Page - EuphoriaColombo')]
+#[Title('Product Page - Noorani')]
 class ProductPage extends Component
 {
     use LivewireAlert;
@@ -28,7 +28,7 @@ class ProductPage extends Component
     public $on_sale = [];
 
     #[Url]
-    public $price_range = 1000;
+    public $price_range = 3000;
 
     #[Url]
     public $sort ='latest';

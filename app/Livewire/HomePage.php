@@ -6,7 +6,7 @@ use Livewire\Component;
 use Livewire\Attributes\Title;
 
 
-#[Title('Home Page - EuphoriaColombo')]
+#[Title('Home Page - Noorani')]
 class HomePage extends Component
 {
     public function render()

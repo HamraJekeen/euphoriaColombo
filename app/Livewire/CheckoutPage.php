@@ -9,7 +9,7 @@ use App\Models\Order;
 use App\Models\Address;
 
 
-#[Title('Checkout Page - EuphoriaColombo')]
+#[Title('Checkout Page - Noorani')]
 class CheckoutPage extends Component
 {
     public $first_name;

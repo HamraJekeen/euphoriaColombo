@@ -7,7 +7,7 @@ use App\Livewire\Partials\Navbar;
 use Livewire\Component;
 
 
-#[Title('Cart Page - EuphoriaColombo')]
+#[Title('Cart Page - Noorani')]
 class CartPage extends Component
 {
     public $quantity =1;

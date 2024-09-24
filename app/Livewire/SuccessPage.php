@@ -8,7 +8,7 @@ use Livewire\Attribute\title;
 
 
 
-#[Title('success')]
+#[Title('success  -Noorani')]
 class SuccessPage extends Component
 {
     public function render()

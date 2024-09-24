@@ -10,7 +10,7 @@ use App\Models\Order;
 
 
 
-#[Title('My Orders Page - EuphoriaColombo')]
+#[Title('My Orders Page - Noorani')]
 class MyOrdersPage extends Component
 {
     use WithPagination;

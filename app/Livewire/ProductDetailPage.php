@@ -13,7 +13,7 @@ use Livewire\WithPagination;
 
 
 
-#[Title('ProductDetail Page - EuphoriaColombo')]
+#[Title('ProductDetail Page - Noorani')]
 class ProductDetailPage extends Component
 {
     use LivewireAlert;
